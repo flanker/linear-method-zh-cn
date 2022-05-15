@@ -83,3 +83,11 @@ Overall as a company, we use projects to organize work when building out feature
 Once I have a better sense of the design and direction, I create a more specific task like “Design X view.” Having a discrete task that I can work on and eventually close feels more motivating than having a huge task that takes weeks. Once the design is complete, I often create an implementation sub-issue which I assign to the team lead or engineer. They can then reference the design decisions and Figma link in the design task as they implement the feature.
 
 一旦我对大方向有了更好的认识，我就会创建一个更具体的任务，如 「设计某某视图」。我会基于一个独立的任务工作并最终完成，这比有一个需要几周时间的大任务更有动力。一旦设计完成，我通常会创建一个子任务，并将其分配给团队负责人或工程师。然后，他们可以在实施该功能时参考设计任务中的设计和 Figma 链接。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。

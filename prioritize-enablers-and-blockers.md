@@ -19,3 +19,11 @@ Secondly, it’s important to consider how timely something is to build. There w
 For example, we launched Linear in beta with Google Logins support only since that was the fastest way to build authentication. We then moved on to other features instead of expanding authentication options. We knew that eventually, we would have to support pure email and other login methods to bring in more users and larger customers, but it wasn't necessary to get our beta user community up and running. This lets us move faster on other features.
 
 举个例子，我们在测试阶段推出的 Linear 时只支持 Google 账户登录，因为那是最快的授权登录方式。然后我们就去做其他功能了，而不是支持更多的登录方式。我们知道，终究某一天，我们将需要支持电子邮件和其他登录方式，以带来更多的用户和大客户，但这对于测试版上线是没有必要的。这样我们就能在其他功能上进展更快。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。

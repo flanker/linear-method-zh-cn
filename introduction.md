@@ -171,3 +171,11 @@ Designers and engineers should work together on projects, creating a natural pus
 It’s important to look back and celebrate what you achieved as a team. Consistent changelogs also communicate to the user new features, the value they get from your product, and your commitment to improving it. It's also an easy way to connect your team's individual work to the collective value they create.
 
 回顾并庆祝你作为一个团队所取得的成就是很重要的。一致的更新日志还可以向用户传达新的功能，他们从你的产品中得到的价值，以及你对改进产品的承诺。这也是将你的团队的个人工作与他们创造的集体价值联系起来的一种简单方法。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。

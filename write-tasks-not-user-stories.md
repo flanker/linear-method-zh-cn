@@ -83,3 +83,11 @@ Discuss the customer experience at the product level when you spec out projects 
 We discuss a feature or project deeply before deciding on an implementation plan. The project owner writes specs and gathers feedback until we feel like we have the right approach. Only then do we start writing code. It’s not uncommon to take a couple weeks to think through a feature before building it but once we’ve come up with the right plan, it’s straight into execution mode. The project owner delegates the work, starting with individuals writing up their own issues.
 
 在决定实现方案之前，我们会深入讨论一个功能。项目负责人撰写规范并收集反馈，直到我们觉得我们有了正确的方法。只有到那时，我们才开始写代码。在建立一个功能之前，花几周的时间来思考是很常见的，但是一旦我们想出了正确的计划，就会直接进入执行模式。项目负责人授权工作，首先从每个人写自己的任务开始。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。

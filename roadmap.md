@@ -128,3 +128,11 @@ We kick off our weekly company meeting with a roadmap review. We go through the 
 Throughout the quarter, it's common for projects to take longer or get moved up or down in the timeline as more urgent or opportunistic work surfaces. This is expected and okay. We also don’t like putting specific release dates on individual projects. We can find an estimated completion date by viewing the graph in the project details sidebar and get a general sense of momentum from reviewing cycles and changelogs. Sometimes a due date is helpful or required, such as for launches where we have to work with external parties or when timeboxing the work helps narrow the scope. It’s easy to keep delaying a launch to tweak the homepage, for instance, but slightly nicer pixels don’t translate to added value for a customer or the company so it's better for the team to focus on product feature work instead. We have to admit, though, we had a lot of fun polishing pixels for the latest release and spent more time than we probably needed to on the Big Sur logo. It was time well spent.
 
 在整个季度中，随着更紧急或更好的机会出现，项目需要更长的时间或在时间表中被上下移动是很常见的。这是预料之中的，也是可以的。我们也不喜欢在单个项目上确定一个具体的交付日期。我们可以通过查看项目细节侧边栏中的图表找到一个估算的交付日期，并从审查周期和变更日志中获得一个总体的势头。有时，一个截止日期是有帮助的，或者是必须的，例如，对于我们必须与外部各方合作的交付，或者确定的时间有助于缩小项目范围。例如，很容易为了优化主页而不断推迟发布，但稍微更漂亮一些的像素并不能为客户或公司带来更多的价值，所以团队最好把精力放在产品功能的工作上。但我们必须承认，我们在为最新版本打磨像素时有很多乐趣，而且在 Logo 上花费的时间可能比我们需要的要多。这些时间花的值。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。
