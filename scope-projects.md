@@ -23,3 +23,5 @@ For example, we shipped the first versions of Cycles and Projects in the first c
 * 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
 * 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
 * 版权归 Linear 团队所有。
+
+[<- Back 返回目录](README.md)
