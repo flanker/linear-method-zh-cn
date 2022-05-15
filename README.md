@@ -15,22 +15,22 @@ To bring back the right focus, these are the foundational and evolving ideas Lin
 
 为了使人们重新关注正确的焦点，下面这些是 Linear 建立的基础性和不断发展的理念。
 
-## 01 Introduction
+## 01 Introduction 简洁
 
-* [Principles & Practices](introduction.md)
+* [Principles & Practices 原则与实践](introduction.md)
 
-## 02 Direction
+## 02 Direction 方向
 
-* [Roadmap sets your team direction](roadmap.md)
-* [Set useful goals](set-useful-goals.md)
-* [Prioritize enablers and blockers](prioritize-enablers-and-blockers.md)
-* [Scope projects down](scope-projects.md)
+* [Roadmap sets your team direction 路线图设置团队方向](roadmap.md)
+* [Set useful goals 制定有用的目标](set-useful-goals.md)
+* [Prioritize enablers and blockers 优先考虑使能因素和阻碍因素](prioritize-enablers-and-blockers.md)
+* [Scope projects down 缩小项目范围](scope-projects.md)
 
-## 03 Building
+## 03 Building 创建
 
-* [Generate momentum](building-with-momentum.md)
-* [Write tasks not user stories](write-tasks-not-user-stories.md)
-* [Manage design projects](manage-design-projects.md)
-* [Build with users](build-with-users.md)
-* [Launch and keep launching](launching.md)
-* [Build in public](build-in-public.md)
+* [Generate momentum 创造动力](building-with-momentum.md)
+* [Write tasks not user stories 写任务而不是用户故事](write-tasks-not-user-stories.md)
+* [Manage design projects 管理设计项目](manage-design-projects.md)
+* [Build with users 与用户一起创建](build-with-users.md)
+* [Launch and keep launching 发布并且持续发布](launching.md)
+* [Build in public 公开创建](build-in-public.md)
