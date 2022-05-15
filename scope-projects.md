@@ -15,3 +15,11 @@ Shorter projects force you to prioritize the most important feature set. They al
 For example, we shipped the first versions of Cycles and Projects in the first couple of months of starting Linear. The MVP version of both of these features took us about two weeks to design and build. We shipped the early versions to ourselves and private beta users in the first week and started collecting user feedback immediately and fixing them in the following weeks. We’ve made a lot of improvements to Cycles and Projects since and both of them are now the major features of the product.
 
 例如，我们在启动 Linear 的头几个月里就交付了 Cycles 和 Projects 的第一个版本。这两个功能的 MVP 版本花了我们大约两周的时间来设计和实现。我们在第一周就向自己和内测用户上线了早期版本，并立即开始收集用户反馈，在随后的几周内对其进行修复。此后我们对 Cycles 和 Projects 进行了大量的改进，现在这两个功能已经成为产品的主要功能。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。

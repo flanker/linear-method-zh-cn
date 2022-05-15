@@ -39,3 +39,11 @@ You may also talk to users who have a lot of feedback but who aren’t in your t
 Incorporate the feedback and let it refine your product, but don’t let user feedback alone dictate what you build. You can become too reactive to user feedback. This is why it’s good to have goals and roadmaps, that help you balance the needs of the users and the needs of the company.
 
 吸收反馈来完善你的产品，但不要完全让用户的反馈来决定你的产品。你会变得反应过度。这就是为什么要有目标和路线图，它可以帮助你平衡用户需求和公司目标。
+
+## 说明
+
+* Linear 是一款研发项目管理工具（[https://linear.app](https://linear.app)）。
+* 这些文章是 Linear 发布的一系列他们团队的工作原则和实践。
+* 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
+* 如果你觉得哪里翻译的可以优化，请[提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [PR](https://github.com/flanker/linear-method-zh-cn/pulls)
+* 版权归 Linear 团队所有。
