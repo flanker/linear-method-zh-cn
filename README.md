@@ -15,7 +15,7 @@ To bring back the right focus, these are the foundational and evolving ideas Lin
 
 为了使人们重新关注正确的焦点，下面这些是 Linear 建立的基础性和不断发展的理念。
 
-## 01 Introduction 简洁
+## 01 Introduction 介绍
 
 * [Principles & Practices 原则与实践](introduction.md)
 
