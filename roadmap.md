@@ -8,7 +8,7 @@ Setting direction is one of the most important things you’ll do when building 
 
 设定方向是创建产品和公司时要做的最重要的事情之一。一个明确的方向可以使每个人都朝着相同的目标而努力。它可以帮助个人做出日常决策，帮助团队确定项目的优先级，激励组织的所有成员实现共同目标。没有方向，就很难一起工作，理解什么值得关注，以及取得有意义的进展。
 
-[Image]
+![Linear Method Roadmap](images/roadmap.jpeg)
 
 Roadmaps are a critical tool for shaping this direction. The process of creating a roadmap forces you to articulate a vision and decide how to build toward it. The culminating roadmap sets a path of execution for the near future, slightly in front of you and ideally a bit out of reach. Anyone in your company can look at the roadmap to quickly understand what to work on and why it matters. A glance at the roadmap reveals progress clearly and can help you identify projects that need attention.
 

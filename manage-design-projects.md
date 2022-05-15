@@ -4,6 +4,8 @@
 
 # 管理设计项目
 
+![Linear Method Manage design projects](images/manage-design-projects.png)
+
 At Linear, we manage design tasks in the app and designers and engineers collaborate tightly when building features. The design process can seem incompatible with typical project management practices. It’s hard to predict what a design will look like at the outset of a project let alone to give estimates on when it will be ready. These are some ways that we approach design work for projects that help us strike a balance and work together effectively.
 
 在 Linear，设计师和工程师在实现功能时紧密协作。设计的工作，看起来似乎与典型的项目管理实践不相容。在项目开始时，你很难预测设计会是什么样子，更不用说估算完成时间了。下面是我们设计工作的一些方法，帮助我们取得平衡并有效地合作。
