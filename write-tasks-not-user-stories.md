@@ -12,6 +12,8 @@ The point of writing an issue is to communicate a task. It needs to be clear eno
 
 写问题的目的是为了传达任务。它需要足够清晰，以便被指派者能够执行，同时也要提供足够的背景，以便团队成员能够了解正在进行的工作。因此，写问题时的目标应该是尽可能有效和快速地完成这个任务。
 
+![Linear Method Write tasks not user stories](images/write-tasks-not-user-stories.png)
+
 ## Why user stories are obsolete
 
 ## 为什么用户故事已经过时了
