@@ -1,18 +1,18 @@
 [<- Back 返回目录](README.md)
 
-# Build with users 与用户共建
+# 与用户共建（Build with users）
 
 > Much of the early startup process is about learning what your customers want. You should seek out users or potential users for feedback, iterate, and be flexible to meet the demands of your customers and the market.
 
 早期的创业过程大部分是关于了解你的客户想要什么。你应该寻求用户或潜在用户的反馈，进行迭代，并灵活地满足客户和市场的需求。
 
-## Vision vs Feedback 愿景与反馈
+## 愿景与反馈（Vision vs Feedback）
 
 > However, your task as a founder is to find a balance between building toward your vision/intuition and building what the users want. Too vision-based products might miss user and market needs while too reactive products become Frankenstein creations without a clear purpose. You need to keep refining your product vision based on your user feedback.
 
 然而，作为创始人，你的任务是在愿景和用户期望之间找到平衡。太过基于愿景，产品可能会错过用户和市场的需求。而太过被动的产品则会成为没有明确目的的科学怪人。你需要根据用户的反馈，不断完善产品愿景。
 
-## Solve the problem not the feature 解决问题而不是实现功能
+## 解决问题而不是实现功能（Solve the problem not the feature）
 
 > Understand that users will project their needs from the context or product they currently see, not the product that you’re trying to build. It’s common for users to ask for features you should add. Whenever they do, it’s important as a product builder that you ask them questions back. What is the use case? What is the problem they’re trying to solve with this feature or solution? How would their experience of the product be different if the problem was fixed?
 
@@ -22,7 +22,7 @@
 
 通过将对话从功能要求转移到他们试图解决的问题上，你将讨论转向了痛点。在这个对话中，你会了解到这个问题是有价值的，还是锦上添花的。它还会让你探索更多解决方案，最终选择最正确的那个。
 
-## Build for the right users 为重要的用户创建
+## 为重要的用户创建（Build for the right users）
 
 > You may also talk to users who have a lot of feedback but who aren’t in your target demographic or aren’t it now. If you think you are building for things for early-stage startups, listening to an enterprise customer will likely set you on the wrong path and it’s unlikely that they will even become a customer.
 

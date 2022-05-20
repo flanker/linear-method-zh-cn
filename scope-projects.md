@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Scope projects down 缩小项目范围
+# 缩小项目范围（Scope projects down）
 
 > At the early stages, it's especially important to scope projects. Design projects so that they can be completed in 1–3 weeks with a team of 1–3 people. Smaller fixes or additions should take only hours or a day.
 
@@ -21,5 +21,5 @@
 * 文章使用 [DeepL](https://www.deepl.com/translator) 翻译，然后人工优化。
 * 如果你觉得哪里可以优化，请 [提交 issue](https://github.com/flanker/linear-method-zh-cn/issues/new) 或者 [提交 PR](https://github.com/flanker/linear-method-zh-cn/pulls)。
 * 文章版权归 Linear 团队所有。
-
+s
 [<- Back 返回目录](README.md)

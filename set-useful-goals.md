@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Set useful goals 设定有用的目标
+# 设定有用的目标（Set useful goals）
 
 > Startups move so fast that it’s normal not to know what you’re working on the next day let alone the next week. Goals are important to remind you what matters for the medium or long term success of the company. You might not feel like you have enough users or historical data to make decisions on what your goals should be. That’s normal and in those situations, create a goal that propels you forward in some measurable way.
 

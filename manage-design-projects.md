@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Manage design projects 管理设计项目
+# 管理设计项目（Manage design projects）
 
 ![Linear Method Manage design projects](images/manage-design-projects.png)
 
@@ -8,7 +8,7 @@
 
 在 Linear，设计师和工程师在实现功能时紧密协作。设计的工作，看起来似乎与典型的项目管理实践不相容。在项目开始时，你很难预测设计会是什么样子，更不用说估算完成时间了。下面是我们设计工作的一些方法，帮助我们取得平衡并有效地合作。
 
-## Verifying the problem 验证问题
+## 验证问题（Verifying the problem）
 
 > The first design task for any project is to understand and verify the problem. Sometimes the problem is clear and simple, such as to build out a screen. Sometimes the problem is unclear or poorly defined and needs some research before implementation. This is especially common when picking up feature requests from customers or teams that work outside of the product. Users will ask you to build a specific feature X to fix their problem Y. The sales team may push you to build feature X to meet a client request. However, their X is usually defined by their perception of the problem and limited by their understanding of how the product can be changed to resolve it. Design’s challenge is to investigate the surface-level issues to find the root cause and then solve for that. As a designer, the most important step is to verify the problem actually exists and is the right problem to solve.
 
@@ -18,7 +18,7 @@
 
 在 Linear，我们通过自己使用自己的产品来进行大量的设计和研究。设计团队定期审查用户提出的功能请求，这些请求可能来自「产品帮助和反馈」或者 Slack 用户社区。如果它在我们的计划中，团队会在 Slack 中或者 Linear 的需求池中进行讨论。在实现之前，我们也会为每个功能写出详细的规格说明，这可以迫使我们深入思考。
 
-## The exploration stage 探索阶段
+## 探索阶段（The exploration stage）
 
 > Once the problem is clarified, it’s time to explore different design options. We create an issue in Linear called “Explore designs” and keep that as a placeholder issue in the project.
 
@@ -28,7 +28,7 @@
 
 在这个阶段，重要的是要自由地探索解决方案，不要判断某件事情是否可行，是否适合你的设计系统，或者判定是不是一个好的想法。糟糕的想法是创作过程中的一个自然步骤，它可以帮助你澄清思维，甚至告诉你为什么其他的想法更好。根据问题的不同，探索可能需要几个小时或几天。它可以需要在 Figma 做一些实验和研究，以获得最佳做法和寻找灵感。一个小的功能可能需要实验很多不同的用户界面。一个较大的功能需要试验多个不同的方案，收集大家的反馈，才能确定最好的。
 
-## Using feedback to guide you 利用反馈来指导您
+## 利用反馈来指导您（Using feedback to guide you）
 
 > After some initial exploration, you should get feedback and reactions from other people starting with your teammates. Observe how they react. When they say something about the design, don’t just pay attention to what they say but ask them why they said it. You should get feedback while you are still exploring, so don’t worry about the details and polish. If people give you negative feedback, don’t take that as a sign the direction is necessarily bad but focus on learning why. It could be that you’re going in the right direction but the current version isn’t quite right or doesn’t fit into their understanding of the problem. Find the gaps in your design or the story and then fill them.
 
@@ -38,7 +38,7 @@
 
 在整体设计和细节意见之间，交替的收集反馈。人们通常很难同时对这两个方面提供良好的反馈，而且如果反馈不集中的话，也很容易徒劳无益。明确高高速对方，让人们知道你希望什么类型的反馈。
 
-## Choosing a direction 选择方向
+## 选择方向（Choosing a direction）
 
 > Eventually you’ll need to pick a direction for the design. Fleshing out the direction more could take a few hours or days and at the least you’ll want to have done a round of internal feedback in the design including the engineers who will be building the feature.
 
@@ -52,13 +52,13 @@
 
 解决方案中的一些细节应该由工程师们提供信息。他们能够指出技术上的局限性，并与你讨论替代方案。这也是很好的做法，一般来说，这给工程师提供了背景和上下文，让他们对问题有了更深的了解，使合作更容易。
 
-## Design and engineering handover 设计和工程交接
+## 设计和工程交接（Design and engineering handover）
 
 > We get a lot of questions about how we manage handover at Linear between the design and engineering teams. We work collaboratively throughout the project design and implementation process and start working together when writing the project spec. We work in project teams and there’s always a designer on the team for any user-facing features. We keep design and engineering tasks in the same team on Linear but they’re created as issues managed separately. The designer files their own issues. The engineers file their own issues. For anything requiring collaboration, we’ll use sub-issues to split up the design and engineering tasks.
 
 我们收到很多关于我们如何管理设计和工程团队之间的交接的问题。我们在整个项目设计和实施过程中协作工作，并在编写项目规范时就开始合作。我们在项目团队中工作，所有面向用户的功能，团队中总有一名设计师。我们将设计和工程任务放在同一个团队中，并且设计会创建为独立的任务。设计师提交他们自己的任务。工程师们也提交他们自己的任务。对于任何需要协作的事情，我们会使用子问题来分割设计和工程任务。
 
-## How we work at Linear: Karri's design process 我们是如何在 Linear 工作的：Karri 的设计过程
+## 我们是如何在 Linear 工作的：Karri 的设计过程（How we work at Linear: Karri's design process）
 
 > I personally have struggled with this kind of task system before as a designer. Designing something often feels holistic and hard to break down into concrete tasks. Once you change one part of the design you may want to change something else. There are also a lot of unknowns in the beginning so it can feel hard to plan ahead.
 

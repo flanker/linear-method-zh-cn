@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Generate momentum 创造动力
+# 创造动力（Generate momentum）
 
 > You and your whole team should always try to take swift action and make progress each day. Instead of thinking or talking about doing something, you decide to do it or not to do it. Then you do it today instead of tomorrow and this week instead of next week.
 

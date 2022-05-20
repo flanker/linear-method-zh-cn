@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Build in public 公开创建
+# 公开创建（Build in public）
 
 > It might feel dangerous to show what you’re building but often it’s more useful. If anything, your competition might be discouraged by your speed and either forced to copy you or avoid copying you.
 

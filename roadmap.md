@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Set team direction with a roadmap 使用路线图确定团队方向
+# 使用路线图确定团队方向（Set team direction with a roadmap）
 
 > Setting direction is one of the most important things you’ll do when building a product and company. A clear direction aligns everyone to work toward the same goals. It helps individuals make daily decisions, teams prioritize projects and all members of your organization feel motivated toward a shared purpose. Without direction, it’s harder to work together, know what to focus on and make meaningful progress.
 
@@ -20,14 +20,14 @@
 
 下面这些是创建和管理路线图时需要遵循的做法：
 
-* Invest in planning  投资于规划
-* Break it down into milestones  将其分解为里程碑
-* Work on substantial projects  在实质性项目上下功夫
-* Prioritize for impact  按照影响进行优先排序
-* Review regularly  定期审查
-* Stay flexible  保持灵活
+* 投资于规划（Invest in planning）
+* 将其分解为里程碑（Break it down into milestones）
+* 在实质性项目上下功夫（Work on substantial projects）
+* 按照影响进行优先排序（Prioritize for impact）
+* 定期审查（Review regularly）
+* 保持灵活（Stay flexible）
 
-## Invest in planning 投资于规划
+## 投资于规划（Invest in planning）
 
 > There are different ways to plan out the roadmap. You'll probably choose a small group of company leaders to build it, unless you're small enough that you can run an effective planning meeting if the full team participates. Carve out meaningful time before your first meeting together to think through company goals and what parts of the product you want to improve most. Use your product intuition. Review customer feedback and feature requests. It's also important to review company metrics such as sign up, activation, retention and revenue so you know how to make trade-offs between features and whether specific areas of the app should be prioritized higher than others.
 
@@ -37,7 +37,7 @@
 
 可能只有部分人来建立最初的路线图，但大家都喜欢参与。如果他们以某种方式参与规划过程，他们会更有主人翁感。给每个人一个贡献的机会。让团队提出他们自己的项目，你甚至可以设置一个时间窗口，让任何人提交反馈和想法。另外，与你的客户交谈。联系提出功能需求的客户，特别是在你不明确需求范围的时候。无论你如何规划你的路线图，给这个过程划定时间限制，并将其发展成一个可重复的流程，这样以后会越做越容易。
 
-## Break it down with milestones 用里程碑来分解它
+## 用里程碑来分解它（Break it down with milestones）
 
 > There will always be an endless list of projects to build or ideas to pursue on the roadmap. Infinite lists can be hard to prioritize and demotivating to view, so it’s helpful to break down roadmaps into milestones that are based on time, theme or goal. 
 
@@ -55,13 +55,13 @@
 
 基于主题的里程碑明确了重点，缩小了项目的清单。一些例子可以是改善核心体验或提升客户参与度。当使用主题里程碑时，增加一个时间或数量的限制，以保持项目清单的可控。成功意味着你可以看到或衡量产生的影响。
 
-## Work on substantial projects 在实质性的项目上工作
+## 在实质性的项目上工作（Work on substantial projects）
 
 > Ideally, the projects you choose to work on make concrete progress in some way. They may create new functionality, launch a campaign or improve an existing area of the product. Build features to completion and avoid breaking down projects into chunks so small that progress doesn’t feel meaningful. Some projects have to get done no matter what such as building tooling and documentation, so fit these into the roadmap and use them to balance out the type and intensity of work. Sometimes teams will also bundle smaller issues into a project to make it more fun. For example, you could create a project called bug week where the focus would be to work through priority bugs from the backlog.
 
 理想的情况是，你选择的项目能在某些方面取得具体进展。他们可能会创造新的功能，发起一个运营活动或改善现有的产品。确保完成功能，避免将项目分解过小以至于感觉不到进展。有些东西无论如何都要做，比如构建工具和文档，所以要把这些纳入路线图，用它们来平衡工作的类型和强度。有时，团队也会将一些小问题捆绑在一个项目中，以使其更加有趣。例如，你可以创建一个叫做 bug week 的项目，重点是解决累积的高优先级 bug。
 
-## Prioritize for impact 按照影响进行优先排序
+## 按照影响进行优先排序（Prioritize for impact）
 
 > Use higher-level milestones to help focus work toward more meaningful projects. Prioritize foundational projects first and those that will have the greatest impact on the customer experience. Deprioritize projects that don’t improve the product for customers, help you hit company targets or increase the quality and speed of work.
 
@@ -71,13 +71,13 @@
 
 一旦你有了要做的项目清单，根据需要调整顺序，以兼顾团队成员和项目强度。在完成一个较大的功能后，做几个较小的项目，以避免倦怠。团队轮流担任项目负责人，这样优秀的人就不会负担过重，并且每个人都有机会发展项目管理技能。无论是作为一个团队还是个人，你都应该尽可能少地同时进行多个项目。在开始新的项目之前，先确保现有项目的交付。专注会产生更高的质量，交付会使执行成为一种习惯。为项目排序，使新的工作建立在以前的项目之上，这将使变化感到自然，并能产生复合效应。发布三个重要的项目也比以十个半完成的项目要好。
 
-## Review regularly 定期审查
+## 定期审查（Review regularly）
 
 > Create a routine around reviewing the roadmap and evaluating progress toward projects. You might include roadmap review in weekly team meetings as well as check in directly with project leads. Create an environment that actively encourages project leads to share honestly and ask for help, not just report a status or expected completion date. It's also helpful for company leaders to run less regular check-ins where you look at the progress made on the roadmap as a whole, reprioritize upcoming projects and make other changes based on new information or feedback from customers. A great plan isn't helpful unless you're following through on it and you won't know how well you're doing that without regular reviews.
 
 建立一个常规机制，来审查路线图和评估项目进展。你可以在每周的团队会议上回顾路线图，也可以直接与项目负责人进行沟通。创造一个环境，鼓励项目负责人真实地分享和寻求帮助，而不仅仅是报告一个状态或预期日期。对公司领导来说，不那么定期的检查也是有帮助的，在检查中你会看到整个路线图的进展情况，重新确定即将进行的项目的优先次序，并根据新的信息或客户的反馈做出其他改变。除非你贯彻执行，否则一个伟大的计划是没有用的，如果不定期检查，你就不知道你做得怎么样。
 
-## Stay flexible 保持灵活
+## 保持灵活（Stay flexible）
 
 > The roadmap should feel substantial without being impossible. A balanced roadmap leaves up to a third of total work hours to be spent on bugs, fixes and backlog items. Do your best to estimate projects and expect that it will take longer than you think–it always does. It’s also better to be ambitious and err toward adding too many projects to the roadmap, not too few. A couple more projects than practical will motivate the team to ship. Too few projects can lead you into a trap of working at the speed of the schedule, slowing down momentum.
 
@@ -87,7 +87,7 @@
 
 把路线图看作是可以更新的文档也很有帮助。情况会发生变化，有时你需要移动一个项目，增加一个项目或推迟一个项目。但不要过于频繁地改变或调整项目，否则就有可能偏离原来的方向或失去动力。
 
-## How we set roadmaps at Linear 我们在 Linear 如何制定路线图
+## 我们在 Linear 如何制定路线图（How we set roadmaps at Linear）
 
 > We work in quarterly roadmaps. Each quarter has a clear theme to focus the work and help us choose which projects to work on e.g. Q4 2020 Core User Experience.
 
