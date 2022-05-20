@@ -20,22 +20,22 @@
 
 为了使人们重新关注正确的焦点，下面这些是 Linear 总结的，并不断演变的原则性理念。
 
-## 01 Introduction 介绍
+## 01 介绍（Introduction）
 
-* [Principles & Practices 原则与实践](introduction.md)
+* [原则与实践（Principles & Practices）](introduction.md)
 
-## 02 Direction 方向
+## 02 方向（Direction）
 
-* [Roadmap sets your team direction 用路线图确立团队方向](roadmap.md)
-* [Set useful goals 制定有用的目标](set-useful-goals.md)
-* [Prioritize enablers and blockers 优先考虑使能因素和阻碍因素](prioritize-enablers-and-blockers.md)
-* [Scope projects down 缩小项目范围](scope-projects.md)
+* [用路线图确立团队方向（Roadmap sets your team direction）](roadmap.md)
+* [制定有用的目标（Set useful goals）](set-useful-goals.md)
+* [优先考虑使能因素和阻碍因素（Prioritize enablers and blockers）](prioritize-enablers-and-blockers.md)
+* [缩小项目范围（Scope projects down）](scope-projects.md)
 
-## 03 Building 创建
+## 03 创建（Building）
 
-* [Generate momentum 创造动力](building-with-momentum.md)
-* [Write tasks not user stories 编写任务而不是用户故事](write-tasks-not-user-stories.md)
-* [Manage design projects 管理设计项目](manage-design-projects.md)
-* [Build with users 与用户一起创建](build-with-users.md)
-* [Launch and keep launching 发布并且持续发布](launching.md)
-* [Build in public 公开创建](build-in-public.md)
+* [创造动力（Generate momentum）](building-with-momentum.md)
+* [编写任务而不是用户故事（Write tasks not user stories）](write-tasks-not-user-stories.md)
+* [管理设计项目（Manage design projects）](manage-design-projects.md)
+* [与用户一起创建（Build with users）](build-with-users.md)
+* [发布并且持续发布（Launch and keep launching）](launching.md)
+* [公开创建（Build in public）](build-in-public.md)

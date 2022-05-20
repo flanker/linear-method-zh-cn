@@ -1,6 +1,6 @@
 [<- Back 返回目录](README.md)
 
-# Prioritize enablers and blockers 优先考虑使能因素和阻碍因素
+# 优先考虑使能因素和阻碍因素（Prioritize enablers and blockers）
 
 > It’s really important to learn to prioritize work well and to be able to explain clearly why you did or did not prioritize something. You don’t have unlimited resources or time, especially in the earlier stages of building a company, so you must use it well.
 
