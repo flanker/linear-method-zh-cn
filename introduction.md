@@ -84,11 +84,11 @@
 
 所有的软件都有 bug，比我们能修复的要多。把 bug 和其他修复工作作为迭代周期的一部分。在工具上作出投资，做的好的话会数倍提升效率。
 
-### 明确项目和任务的负责人（Specify project and issue owners）
+### 明确项目和 issue 的负责人（Specify project and issue owners）
 
 > Each project should have a named owner responsible to own delivery and write the project brief. The same goes for issues. Others should collaborate but responsibility should lie with a single person.
 
-每个项目都应该有一个明确的负责人，来负责项目交付和编写项目简报。对任务也是如此。团队可以协作，但责任应该在一个人身上。
+每个项目都应该有一个明确的负责人，来负责项目交付和编写项目简报。对 issue 也是如此。团队可以协作，但责任应该在一个人身上。
 
 ### 撰写项目规格书（Write project specs）
 
@@ -102,11 +102,11 @@
 
 你的产品越受欢迎，你得到的反馈就越多。溢出的收件箱是一个好事情，除非它们是 bug 报告。不要太担心要去管理组织所有的反馈。收集它，并在开发新功能时将其作为一个研究库。试着去发现趋势。利用反馈，甚至是抱怨，作为了解你的用户的机会，请他们解释为什么他们想要一个特定的功能，这样你就能发现他们的需求。解决问题--不要只是创建功能。
 
-### 将问题的范围尽可能的小（Scope issues to be as small as possible）
+### 将 issue 范围尽可能的小（Scope issues to be as small as possible）
 
 > It's hard to see visible progress when working on large tasks, which can be demotivating. Break down work into smaller parts and create an issue for each one when possible. Ideally you can complete several concrete tasks each week. It feels great to mark issues as done.
 
-在处理很大的任务时，很难看到明显的进展，这可能会打击团队的积极性。把工作分解为较小的事项，并尽可能为每个事项创建一个任务。理想情况下，你可以每周完成几个具体的任务。把任务标记为 done 的感觉很好。
+在处理很大的 issue 时，很难看到明显的进展，这可能会打击团队的积极性。把工作分解为较小的事项，并尽可能为每个事项创建一个 issue。理想情况下，你可以每周完成几个具体的 issue。把 issue 标记为 done 的感觉很好。
 
 ### 用实际工作来衡量进展（Measure progress with actual work）
 

@@ -59,7 +59,7 @@
 
 > Ideally, the projects you choose to work on make concrete progress in some way. They may create new functionality, launch a campaign or improve an existing area of the product. Build features to completion and avoid breaking down projects into chunks so small that progress doesn’t feel meaningful. Some projects have to get done no matter what such as building tooling and documentation, so fit these into the roadmap and use them to balance out the type and intensity of work. Sometimes teams will also bundle smaller issues into a project to make it more fun. For example, you could create a project called bug week where the focus would be to work through priority bugs from the backlog.
 
-理想的情况是，你选择的项目能在某些方面取得具体进展。他们可能会创造新的功能，发起一个运营活动或改善现有的产品。确保完成功能，避免将项目分解过小以至于感觉不到进展。有些东西无论如何都要做，比如构建工具和文档，所以要把这些纳入路线图，用它们来平衡工作的类型和强度。有时，团队也会将一些小问题捆绑在一个项目中，以使其更加有趣。例如，你可以创建一个叫做 bug week 的项目，重点是解决累积的高优先级 bug。
+理想的情况是，你选择的项目能在某些方面取得具体进展。他们可能会创造新的功能，发起一个运营活动或改善现有的产品。确保完成功能，避免将项目分解过小以至于感觉不到进展。有些东西无论如何都要做，比如构建工具和文档，所以要把这些纳入路线图，用它们来平衡工作的类型和强度。有时，团队也会将一些小 issue 捆绑在一个项目中，以使其更加有趣。例如，你可以创建一个叫做 bug week 的项目，重点是解决累积的高优先级 bug。
 
 ## 按照影响进行优先排序（Prioritize for impact）
 
@@ -103,7 +103,7 @@
 
 > We assign a lead to every project. They’re responsible for creating a project spec, leading project team meetings and writing the changelog post. Individual project team members create their own issues within a project though the lead is responsible for making sure the project ships.
 
-我们为每个项目指定一个负责人。他们负责创建项目规范，领导项目团队会议和撰写变更日志。项目组成员在项目中创建他们自己的任务，但项目负责人来确保项目的交付。
+我们为每个项目指定一个负责人。他们负责创建项目规范，领导项目团队会议和撰写变更日志。项目组成员在项目中创建他们自己的 issue，但项目负责人来确保项目的交付。
 
 > We kick off our weekly company meeting with a roadmap review. We go through the list of projects one-by-one in chronological order and each project owner updates the team on the status. If a blocker or issue comes up, we might discuss it quickly or resolve it after the meeting.
 

@@ -16,13 +16,13 @@
 
 > At Linear, we do a lot of this design and research by playing with the product ourselves. The design team regularly reviews feature requests that come in from users through the Help + Feedback modal or in the public Slack community. We’ll discuss these as a team casually in Slack or on the Linear issue if it’s a feature we plan to implement. We also invest in writing out detailed project specs for each feature before building anything which forces us to think through the problem in depth.
 
-在 Linear，我们通过自己使用自己的产品来进行大量的设计和研究。设计团队定期审查用户提出的功能请求，这些请求可能来自「产品帮助和反馈」或者 Slack 用户社区。如果它在我们的计划中，团队会在 Slack 中或者 Linear 的需求池中进行讨论。在实现之前，我们也会为每个功能写出详细的规格说明，这可以迫使我们深入思考。
+在 Linear，我们通过自己使用自己的产品来进行大量的设计和研究。设计团队定期审查用户提出的功能请求，这些请求可能来自「产品帮助和反馈」或者 Slack 用户社区。如果它在我们的计划中，团队会在 Slack 中或者 Linear 的 issue 中进行讨论。在实现之前，我们也会为每个功能写出详细的规格说明，这可以迫使我们深入思考。
 
 ## 探索阶段（The exploration stage）
 
 > Once the problem is clarified, it’s time to explore different design options. We create an issue in Linear called “Explore designs” and keep that as a placeholder issue in the project.
 
-一旦问题得到澄清，就是探索不同设计方案的时候了。我们会在 Linear 中创建一个名为「探索设计」的任务，将其作为项目中的一个占位任务。
+一旦问题得到澄清，就是探索不同设计方案的时候了。我们会在 Linear 中创建一个名为「探索设计」的 issue，将其作为项目中的一个占位 issue。
 
 > At this stage, it’s important to explore the solution freely and without judging whether something is feasible, fits into your design system or is a good idea at all. Bad ideas are a natural step in the creative process, can help clarify your thinking, and even show you why something else is a better idea. Depending on a problem, exploration could take a few hours or a few days. It’ll include part research to learn best practices and find inspiration and part experimenting with options in Figma. A small feature might require a few takes with different UIs. A larger feature could end up going in multiple directions before you find the one that you like, usually after you’ve gotten feedback from others.
 
@@ -56,7 +56,7 @@
 
 > We get a lot of questions about how we manage handover at Linear between the design and engineering teams. We work collaboratively throughout the project design and implementation process and start working together when writing the project spec. We work in project teams and there’s always a designer on the team for any user-facing features. We keep design and engineering tasks in the same team on Linear but they’re created as issues managed separately. The designer files their own issues. The engineers file their own issues. For anything requiring collaboration, we’ll use sub-issues to split up the design and engineering tasks.
 
-我们收到很多关于我们如何管理设计和工程团队之间的交接的问题。我们在整个项目设计和实施过程中协作工作，并在编写项目规范时就开始合作。我们在项目团队中工作，所有面向用户的功能，团队中总有一名设计师。我们将设计和工程任务放在同一个团队中，并且设计会创建为独立的任务。设计师提交他们自己的任务。工程师们也提交他们自己的任务。对于任何需要协作的事情，我们会使用子问题来分割设计和工程任务。
+我们收到很多关于我们如何管理设计和工程团队之间的交接的问题。我们在整个项目设计和实施过程中协作工作，并在编写项目规范时就开始合作。我们在项目团队中工作，所有面向用户的功能，团队中总有一名设计师。我们将设计和工程任务放在同一个团队中，并且设计会创建为独立的 issue。设计师提交他们自己的 issue。工程师们也提交他们自己的 issue。对于任何需要协作的事情，我们会使用 子issue 来分割设计和工程任务。
 
 ## 我们是如何在 Linear 工作的：Karri 的设计过程（How we work at Linear: Karri's design process）
 
