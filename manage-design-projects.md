@@ -36,7 +36,7 @@
 
 > When getting feedback on the design, alternate between reviewing the overall design and gathering input on specific details. It’s often hard for people to give good feedback on both at once and easy to go off in unhelpful tangents if feedback requests aren’t focused. Set the expectation and let people know what type of feedback would be valuable for you to receive.
 
-在整体设计和细节意见之间，交替的收集反馈。人们通常很难同时对这两个方面提供良好的反馈，而且如果反馈不集中的话，也很容易徒劳无益。明确高高速对方，让人们知道你希望什么类型的反馈。
+在整体设计和细节意见之间，交替的收集反馈。人们通常很难同时对这两个方面提供良好的反馈，而且如果反馈不集中的话，也很容易徒劳无益。明确告诉对方，让人们知道你希望什么类型的反馈。
 
 ## 选择方向（Choosing a direction）
 
